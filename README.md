@@ -7,6 +7,8 @@ web developer and avid hacker
 *   🌍  I'm based in Durham, North Carolina (but from Uzbekistan)
 *   🚀  I'm currently working on [Crossroadss](http://www.crossroadss.co)
 *   🧠  I'm learning In depth Front-end and Back-end development in FastAPI
+*   🏆  I'm an avid hacker (I participate in hackathons, I have actually won **6** of them). Check out my [Devpost.](https://devpost.com/azyzz228)
+*   ✉️  You can contact me at [aziz05072000@outlook.com](mailto:aziz05072000@outlook.com)
 
 ### Skills
 <p align="left">
