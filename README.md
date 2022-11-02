@@ -17,6 +17,6 @@ I am a senior student currently at Duke studying EnvSci/PubPol. Why the heck do 
 * Some time ago, cleaned data with NumPy and Pandas
 * Deployed projects to Netlify, pythonanywhere, and set up linux VM from scratch on Amazon EC2 for Django project.
 
-####### Let's connect!
+###### Let's connect!
                   
 <p align="left"><a href="https://www.linkedin.com/in/aziz-abdullaev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
