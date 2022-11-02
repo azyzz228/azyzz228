@@ -1,44 +1,22 @@
 Hi 👋 My name is Aziz Abdullaev
 ===============================
 
-web developer and avid hacker
+I am a senior student currently at Duke studying EnvSci/PubPol. Why the heck do I have a GitHub profile? I learned a bit of web dev and got involved in hackathons coincidentally. The rest is hitory, as they say it. I went on winning 6 hackathons with my wonderful team and was named MLH Top 50 2022 ([here](https://top.mlh.io/2022/profiles/aziz-abdullaev) is my story). Coding/developing/creating became my **main** interest, and that's what I am doing now. I took Data Structure and Algorithms class, now taking Computer Systems class at Duke. There are others things I do apart from classes, though.
+
+
 -----------------------------
 
-*   🌍  I'm based in Durham, North Carolina (but from Uzbekistan)
-*   🚀  I'm currently working on [Crossroadss](http://www.crossroadss.co)
-*   🧠  I'm learning In depth Front-end and Back-end development in FastAPI
-*   🏆  I'm an avid hacker (I participate in hackathons, I have actually won **6** of them). Check out my [Devpost.](https://devpost.com/azyzz228)
-*   ✉️  You can contact me at [aziz05072000@outlook.com](mailto:aziz05072000@outlook.com)
+*   🚀  I am currently a MLH Fellow Fall 22', Open Source track. I work under supervision of [Jordan Harbrand](https://github.com/ljharb) and contribute to `eslint-plugin-import`. 
+*   🏆  I have 'won' 7 hackathons. Check out my [devpost.](https://devpost.com/azyzz228)
+*   ✉️  You can contact me at as1036@duke.edu
 
 ### Skills
-<p align="left">
-                                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                                <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-                                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-                                <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                    </p>
-                    
 
-### Socials
+* I coded in JS, Python, Java, C, R.
+* Worked with React, Next, Django, FastAPI. PostgreSQL
+* Some time ago, cleaned data with NumPy and Pandas
+* Deployed projects to Netlify, pythonanywhere, and set up linux VM from scratch on Amazon EC2 for Django project.
+
+####### Let's connect!
                   
-<p align="left"> <a href="https://www.github.com/azyzz228" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aziz-abdullaev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/azyzz228"><img src="https://github-readme-stats.vercel.app/api?username=azyzz228&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="azyzz228's GitHub stats" /></a>
-
-<a href="https://github.com/azyzz228" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azyzz228&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/azyzz228/sheerai" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=azyzz228&repo=sheerai&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/azyzz228/recaipe" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=azyzz228&repo=recaipe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="left"><a href="https://www.linkedin.com/in/aziz-abdullaev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
