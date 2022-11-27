@@ -1,21 +1,17 @@
 Hi 👋 My name is Aziz Abdullaev
-===============================
+=============================== 
 
-I am a senior student currently at Duke studying EnvSci/PubPol. Why the heck do I have a GitHub profile? I learned a bit of web dev and got involved in hackathons coincidentally. The rest is hitory, as they say it. I went on winning 6 hackathons with my wonderful team and was named MLH Top 50 2022 ([here](https://top.mlh.io/2022/profiles/aziz-abdullaev) is my story). Coding/developing/creating became my **main** interest, and that's what I am doing now. I took Data Structure and Algorithms class, now taking Computer Systems class at Duke. There are others things I do apart from classes, though.
-
-
------------------------------
-
-*   🚀  I am currently a MLH Fellow Fall 22', Open Source track. I work under supervision of [Jordan Harbrand](https://github.com/ljharb) and contribute to `eslint-plugin-import`. 
-*   🏆  I have 'won' 7 hackathons. Check out my [devpost.](https://devpost.com/azyzz228)
+*   🚀  I am a Major League Hacking (MLH) Fellow Fall 22', Open Source track. I work under supervision of [Jordan Harbrand](https://github.com/ljharb) and contribute to [eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) which has 16M weekly downloads. I try to fix the bugs that were raised, improve performance, enhance existing rules, refactor code, and contribute to the discussion on created issues.
+*   🏆  I have 'won' 7 hackathons, for which I was selected as [MLH's Top 50](https://top.mlh.io/2022/profiles/aziz-abdullaev) is my story). Check out my [devpost to see the project I have built with my awesome team.](https://devpost.com/azyzz228).
+*   I am currently senior studying at Duke University (Duke University and Duke Kunshan University dual degree program). I am graduating in May 2023 and looking for job opportunities.
 *   ✉️  You can contact me at as1036@duke.edu
 
 ### Skills
 
-* I coded in JS, Python, Java, C, R.
-* Worked with React, Next, Django, FastAPI. PostgreSQL
-* Some time ago, cleaned data with NumPy and Pandas
+* JS (the language I use mostly), Python (my first programming language), Java (language for my CS courses), C (used it for my computer systems class). Want to add Solidity/Rust/Go/Typescript to this list, I guess you know why.
+* React, Next, Django, FastAPI. PostgreSQL
 * Deployed projects to Netlify, pythonanywhere, and set up linux VM from scratch on Amazon EC2 for Django project.
+* Cleaned and analyzed data with NumPy, Pandas, and R + R studio.
 
 ###### Let's connect!
                   
