@@ -5,10 +5,6 @@ Hi 👋 My name is aziz
 *   🏆  I have 'won' 7+ hackathons, for which I was selected as [MLH's Top 50](https://top.mlh.io/2022/profiles/aziz-abdullaev). Check out my [devpost to see the project I have built with my awesome team.](https://devpost.com/azyzz228).
 *   Check out my snippets extension for Phoenix Framework's HEEx templates [here](https://marketplace.visualstudio.com/items?itemName=aziz-abdullaev.heex-snippets)
 
-### Skills
-
-* Elixir and JS
-
 ### Writings
 
 - [Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://dev.to/azyzz/performance-optimization-when-adding-12000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leafletjs-54pf)
