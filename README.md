@@ -9,6 +9,10 @@ Hi 👋 My name is aziz
 
 * Elixir and JS
 
+### Writings
+
+- [Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://dev.to/azyzz/performance-optimization-when-adding-12000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leafletjs-54pf)
+
 ###### Let's connect!
                   
 <p align="left"><a href="https://www.linkedin.com/in/aziz-abdullaev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
