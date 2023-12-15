@@ -8,6 +8,7 @@ Hi 👋 My name is aziz
 ### Writings
 
 - [Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://dev.to/azyzz/performance-optimization-when-adding-12000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leafletjs-54pf)
+- [File upload to AWS S3 or S3 compatible bucket from Phoenix LiveView using Elixir ](https://dev.to/azyzz/file-upload-to-aws-s3-or-s3-compatible-bucket-digitalocean-spaces-from-phoenix-liveview-using-elixir-3eof)
 
 ###### Let's connect!
                   
