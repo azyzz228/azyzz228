@@ -10,6 +10,7 @@ Hi 👋 My name is aziz
 - [Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://dev.to/azyzz/performance-optimization-when-adding-12000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leafletjs-54pf)
 - [Network optimization (4x WS message size reduction) for sending a lot of data from LiveView to client using push_event](https://dev.to/azyzz/network-optimization-for-sending-lot-of-data-from-liveview-to-client-using-pushevent-2nl)
 - [File upload to AWS S3 or S3 compatible bucket from Phoenix LiveView using Elixir ](https://dev.to/azyzz/file-upload-to-aws-s3-or-s3-compatible-bucket-digitalocean-spaces-from-phoenix-liveview-using-elixir-3eof)
+- [Free + Simple CI/CD for Elixir Phoenix app](https://dev.to/azyzz/free-simple-cicd-for-elixir-phoenix-app-50k2)
 - [AI powered app (with open-source LLMs like Llama) with Elixir, Phoenix, LiveView, and TogetherAI ](https://dev.to/azyzz/ai-powered-app-with-llms-with-elixir-phoenix-liveview-and-togetherai-4ei1)
 
 ###### Let's connect!
