@@ -5,6 +5,14 @@ Hi 👋 My name is aziz
 *   🏆  I have 'won' 7+ hackathons, for which I was selected as [MLH's Top 50](https://top.mlh.io/2022/profiles/aziz-abdullaev). Check out my [devpost to see the project I have built with my awesome team.](https://devpost.com/azyzz228).
 *   Check out my snippets extension for Phoenix Framework's HEEx templates [here](https://marketplace.visualstudio.com/items?itemName=aziz-abdullaev.heex-snippets)
 
+
+### Notable PRs to eslint-import-plugin
+
+- [[New] prefer-default-export: add "target" option](https://github.com/import-js/eslint-plugin-import/pull/2602)
+- [[Tests] namespace: add passing test case to close](https://github.com/import-js/eslint-plugin-import/pull/2592)
+- [Fix: one failing test case from for import type cases in no-restricted-paths](https://github.com/import-js/eslint-plugin-import/pull/2574)
+- [[meta] CONTRIBUTING.md: add resources for newcomers](https://github.com/import-js/eslint-plugin-import/pull/2576)
+
 ### Writings
 
 - [Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://dev.to/azyzz/performance-optimization-when-adding-12000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leafletjs-54pf)
